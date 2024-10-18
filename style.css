@@ -1,0 +1,24 @@
+*
+{
+    padding: 0%;
+    background-color: rgb(92, 223, 223);
+    text-align: center;
+}
+button
+{
+    padding:6PX 24PX 6PX 24PX;
+    border-radius: 6px 6px 6px 6px;
+    font-size: 22px;
+    background-color: rgb(229, 199, 153);
+    
+}
+input{
+    width: 5%;
+    
+}
+.heading
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: red;
+}
